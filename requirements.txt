@@ -1,0 +1,6 @@
+aiohttp
+dnspython
+psutil
+requests
+colorama
+opencv-python
